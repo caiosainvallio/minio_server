@@ -1,0 +1,23 @@
+Este é um arquivo de exemplo para testar o MinIO Server! 🚀
+
+Conteúdo:
+- Data de criação: $(date)
+- Projeto: MinIO Server com Docker
+- Funcionalidades testadas:
+  ✅ Upload de arquivo
+  ✅ Download de arquivo  
+  ✅ Leitura de conteúdo
+  ✅ Listagem de objetos
+
+Você pode usar este arquivo para:
+1. Testar uploads para diferentes buckets
+2. Verificar a funcionalidade de download
+3. Testar a leitura de conteúdo de arquivos de texto
+4. Experimentar com diferentes nomes de objetos
+
+Exemplo de comando para upload via script:
+- Bucket: test-bucket
+- Arquivo local: exemplo.txt
+- Nome no MinIO: meu-exemplo.txt
+
+Happy coding! 💻✨ 
